@@ -193,7 +193,7 @@ const App = () => {
   if (!user) {
     return (
       <div style={{ padding: '20px', maxWidth: '400px', margin: '100px auto' }}>
-        <h2 style={{ textAlign: 'center' }}>Product Management System</h2>
+        <h2 style={{ textAlign: 'center' }}>Product Management System App</h2>
 
         <div style={{ marginBottom: '20px', display: 'flex', gap: '10px' }}>
           <button
